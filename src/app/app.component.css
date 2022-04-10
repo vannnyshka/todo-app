@@ -1,0 +1,20 @@
+
+.head-Todo {
+    background-color: rgb(49, 45, 49);
+    text-align: center;
+    color:rgb(241, 244, 244);
+}
+
+h1 {
+    font-size: 30px;
+    color:rgb(241, 244, 244);
+}
+
+a {
+    color: rgb(241, 244, 244);
+    cursor: pointer;
+}
+
+a:hover{
+    background-color: rgb(126, 124, 124);
+}

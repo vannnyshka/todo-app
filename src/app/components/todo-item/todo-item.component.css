@@ -1,0 +1,23 @@
+.del {
+    background: #c02c2c;
+    color: #fff;
+    border: none;
+    padding: 5px 9px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right
+}
+
+button.del:hover{
+    background-color:#b76060;
+}
+
+.todo {
+    background: #f4f4f4;
+    padding: 10px;
+    border-bottom: 1px #ccc dotted;
+}
+
+.is-completed {
+    text-decoration: line-through;
+}
